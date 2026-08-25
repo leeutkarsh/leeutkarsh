@@ -18,30 +18,28 @@
 
 </p>
 
----
-
-<h2>🐈‍⬛ About Me</h2>
-
 <table>
 <tr>
 <td width="65%">
 
-I build things, break things, and occasionally figure out why they broke.
+*I build things, break things, and occasionally figure out why they broke.*
 
-Mostly into **AI/ML, cybersecurity, automation**, and whatever seems interesting at the time.
+*Mostly into **AI/ML, cybersecurity, automation**, and whatever happens to catch my attention.*
 
-No grand plan. Just making stuff I actually want to make.
+*No grand plan. No particular direction.*
+
+*Just making things I actually want to make.*
 
 > *"This is probably unnecessary... let's build it anyway."*
 
-I don't want to just learn.  
-**I want to build things that genuinely excite me.**
+**I don't want to just learn things.**  
+***I want to build things that genuinely excite me.***
 
 </td>
 
 <td width="35%" align="center">
 
-<img src="" width="220">
+<img src="something.gif" width="220">
 
 </td>
 </tr>
@@ -69,3 +67,6 @@ while brain:
   for rules in range(infinite):
     break
 ```
+<p align="center">
+  <i>There was probably a better way. I just didn't take it.</i>
+</p>
