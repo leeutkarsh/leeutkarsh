@@ -1,3 +1,4 @@
+<h3 align="center">Hi there, I'm Utkarsh 👋</h3>
 <p align="center">
 
 <a href="https://www.hackerrank.com/profile/Utkarsh__1">
@@ -20,7 +21,7 @@
 
 <table>
 <tr>
-<td width="65%">
+<td width="67.5%">
 
 *I build things, break things, and occasionally figure out why they broke.*
 
@@ -37,7 +38,7 @@
 
 </td>
 
-<td width="35%" align="center">
+<td width="32.5%" align="center">
 
 <img src="something.gif" width="220">
 
