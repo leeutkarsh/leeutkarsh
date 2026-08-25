@@ -1,12 +1,26 @@
-<a href="hackerrank.com/profile/Utkarsh__1"> <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /> </a>
+<p align="center">
 
-<a href="devpost.com/utkarsh1221u?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"> <img src="https://img.shields.io/badge/Devpost-Profile-003E54?style=for-the-badge&logo=devpost&logoColor=white" /> </a>
+<a href="https://www.hackerrank.com/profile/Utkarsh__1">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
 
-<a href="https://smallpdf.com/file#s=acb248e3-efcc-42cb-8d52-f5ea4c3eee6d"> <img src="https://img.shields.io/badge/Resume-View%20CV-181717?style=for-the-badge&logo=readthedocs&logoColor=white" /> </a>
+<a href="https://devpost.com/utkarsh1221u?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+  <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://smallpdf.com/file#s=acb248e3-efcc-42cb-8d52-f5ea4c3eee6d">
+  <img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
-## 🧠 Who am I?
+## Who am I?
 
 I'm an **AI/ML Enthusiast** who likes breaking things, understanding how they work, and rebuilding them differently.
 
@@ -34,5 +48,5 @@ while brain:
 ```
 
 <p align="center">
-  <b>Currently turning absurd ideas into working systems.</b> ⚡
+  <b>nevermind</b>
 </p>
