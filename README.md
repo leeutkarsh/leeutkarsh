@@ -20,24 +20,47 @@
 
 ---
 
-## Who am I?
+<h2>🐈‍⬛ About Me</h2>
 
-I'm an **AI/ML Enthusiast** who likes breaking things, understanding how they work, and rebuilding them differently.
+<table>
+<tr>
+<td width="65%">
 
-I enjoy **AI, cybersecurity, automation, and weird experiments** — especially ideas that make me go:
+I build things, break things, and occasionally figure out why they broke.
+
+Mostly into **AI/ML, cybersecurity, automation**, and whatever seems interesting at the time.
+
+No grand plan. Just making stuff I actually want to make.
 
 > *"This is probably unnecessary... let's build it anyway."*
 
-I don't want to just learn technology.
+I don't want to just learn.  
 **I want to build things that genuinely excite me.**
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="" width="220">
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚙️ TechStack
+<h2>⚙️ Tech Stack</h2>
 
-`Python` `C` `SQL` `Core Java`
-`Scikit-learn` `PyTorch` `Data Preprocessing`
-`FastAPI` `PySpark` `Linux` `Burp Suite`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,java,mysql,pytorch,fastapi,linux&perline=7" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Preprocessing-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+</p>
 
 ---
 
@@ -46,7 +69,3 @@ while brain:
   for rules in range(infinite):
     break
 ```
-
-<p align="center">
-  <b>nevermind</b>
-</p>
