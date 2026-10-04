@@ -110,11 +110,12 @@
 ### 🧠 ResumeForce AI
 *Your resume, reviewed like a hiring manager would.*
 
-- Scores and analyses resumes straight from PDF
-- Rewrites weak sections with AI
-- Exports a clean DOCX or PDF
-- Generates insights on strengths and gaps
-- Creates tailored interview questions
+- Instant scoring: overall and ATS scores from a PDF
+- Strengths, gaps and red flags at a glance
+- Tailored interview questions with answers
+- Job match: fit score and skill gaps for any posting
+- Deep research: reviews your links and finds company interview insights
+- Easy exports: cover letter as Word, full report as JSON
 
 **AI**<br/>
 <img src="https://img.shields.io/badge/Ollama-3b2a6b?style=flat&logo=ollama&logoColor=c4b5fd" />&nbsp;
