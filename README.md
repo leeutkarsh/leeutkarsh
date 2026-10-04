@@ -34,6 +34,7 @@
 <!-- 4: SOCIAL LINKS -->
 <a href="https://www.linkedin.com/in/utkarsh-pandey-255b21366/"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0iIzAwZWE2NCI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6Ii8%2BPHBhdGggZD0iTTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXoiLz48cGF0aCBkPSJNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyeiIvPjwvZz48L3N2Zz4%3D" /></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/profile/Utkarsh__1"><img src="https://img.shields.io/badge/HackerRank-161b22?style=flat&logo=hackerrank&logoColor=00ea64" /></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Utkarsh1221/"><img src="https://img.shields.io/badge/LeetCode-161b22?style=flat&logo=leetcode&logoColor=00ea64" /></a>&nbsp;&nbsp;
 <a href="https://devpost.com/utkarsh1221u"><img src="https://img.shields.io/badge/Devpost-161b22?style=flat&logo=devpost&logoColor=00ea64" /></a>&nbsp;&nbsp;
 <a href="https://medium.com/@leeutkarsh"><img src="https://img.shields.io/badge/Medium-161b22?style=flat&logo=medium&logoColor=00ea64" /></a>&nbsp;&nbsp;
 <a href="https://hashnode.com/@utkarsh-1"><img src="https://img.shields.io/badge/Hashnode-161b22?style=flat&logo=hashnode&logoColor=00ea64" /></a>&nbsp;&nbsp;
@@ -117,7 +118,8 @@
 
 **AI**<br/>
 <img src="https://img.shields.io/badge/Ollama-3b2a6b?style=flat&logo=ollama&logoColor=c4b5fd" />&nbsp;
-<img src="https://img.shields.io/badge/Pydantic-1e3a5f?style=flat&logo=pydantic&logoColor=93c5fd" />
+<img src="https://img.shields.io/badge/Pydantic-1e3a5f?style=flat&logo=pydantic&logoColor=93c5fd" />&nbsp;
+<img src="https://img.shields.io/badge/AI_Agent-3b2a6b?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYzRiNWZkIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iNCIgeT0iOCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjEyIiByeD0iMyIvPjxwYXRoIGQ9Ik0xMiA4VjQuNU0yIDEzdjNNMjIgMTN2MyIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMy41IiByPSIxLjMiIGZpbGw9IiNjNGI1ZmQiLz48Y2lyY2xlIGN4PSI5IiBjeT0iMTQiIHI9IjEuNCIgZmlsbD0iI2M0YjVmZCIvPjxjaXJjbGUgY3g9IjE1IiBjeT0iMTQiIHI9IjEuNCIgZmlsbD0iI2M0YjVmZCIvPjwvZz48L3N2Zz4%3D" />
 
 **Stack**<br/>
 <img src="https://img.shields.io/badge/Streamlit-1e3a5f?style=flat&logo=streamlit&logoColor=93c5fd" />&nbsp;
@@ -234,7 +236,8 @@
 <img src="https://img.shields.io/badge/Qwen-3b2a6b?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0iI2M0YjVmZCI%2BPHBhdGggZD0iTTEyIDJsMi4zIDcuN0wyMiAxMmwtNy43IDIuM0wxMiAyMmwtMi4zLTcuN0wyIDEybDcuNy0yLjNMMTIgMnoiLz48L2c%2BPC9zdmc%2B" />&nbsp;
 <img src="https://img.shields.io/badge/Gemini_API-3b2a6b?style=flat&logo=googlegemini&logoColor=c4b5fd" />&nbsp;
 <img src="https://img.shields.io/badge/NVIDIA_API-3b2a6b?style=flat&logo=nvidia&logoColor=c4b5fd" />&nbsp;
-<img src="https://img.shields.io/badge/Structured_JSON-3b2a6b?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0iI2M0YjVmZCI%2BPHBhdGggZD0iTTkuNCAxNi42IDQuOCAxMmw0LjYtNC42TDggNmwtNiA2IDYgNiAxLjQtMS40eiIvPjxwYXRoIGQ9Im0xNC42IDE2LjYgNC42LTQuNi00LjYtNC42TDE2IDZsNiA2LTYgNi0xLjQtMS40eiIvPjwvZz48L3N2Zz4%3D" />
+<img src="https://img.shields.io/badge/Structured_JSON-3b2a6b?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0iI2M0YjVmZCI%2BPHBhdGggZD0iTTkuNCAxNi42IDQuOCAxMmw0LjYtNC42TDggNmwtNiA2IDYgNiAxLjQtMS40eiIvPjxwYXRoIGQ9Im0xNC42IDE2LjYgNC42LTQuNi00LjYtNC42TDE2IDZsNiA2LTYgNi0xLjQtMS40eiIvPjwvZz48L3N2Zz4%3D" />&nbsp;
+<img src="https://img.shields.io/badge/AI_Agent-3b2a6b?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYzRiNWZkIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iNCIgeT0iOCIgd2lkdGg9IjE2IiBoZWlnaHQ9IjEyIiByeD0iMyIvPjxwYXRoIGQ9Ik0xMiA4VjQuNU0yIDEzdjNNMjIgMTN2MyIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMy41IiByPSIxLjMiIGZpbGw9IiNjNGI1ZmQiLz48Y2lyY2xlIGN4PSI5IiBjeT0iMTQiIHI9IjEuNCIgZmlsbD0iI2M0YjVmZCIvPjxjaXJjbGUgY3g9IjE1IiBjeT0iMTQiIHI9IjEuNCIgZmlsbD0iI2M0YjVmZCIvPjwvZz48L3N2Zz4%3D" />
 </td>
 </tr>
 
