@@ -38,7 +38,7 @@
 <a href="https://devpost.com/utkarsh1221u"><img src="https://img.shields.io/badge/Devpost-161b22?style=flat&logo=devpost&logoColor=00ea64" /></a>&nbsp;&nbsp;
 <a href="https://medium.com/@leeutkarsh"><img src="https://img.shields.io/badge/Medium-161b22?style=flat&logo=medium&logoColor=00ea64" /></a>&nbsp;&nbsp;
 <a href="https://hashnode.com/@utkarsh-1"><img src="https://img.shields.io/badge/Hashnode-161b22?style=flat&logo=hashnode&logoColor=00ea64" /></a>&nbsp;&nbsp;
-<a href="https://smallpdf.com/file#s=acb248e3-efcc-42cb-8d52-f5ea4c3eee6d"><img src="https://img.shields.io/badge/Resume-161b22?style=flat&logo=readthedocs&logoColor=00ea64" /></a>
+<a href="https://drive.google.com/file/d/1B5OEl-ArXLkZ5yNonyd-2LsJmma3OyXq/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-161b22?style=flat&logo=readthedocs&logoColor=00ea64" /></a>
 
 </div>
 
