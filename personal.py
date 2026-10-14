@@ -150,7 +150,7 @@ with tab_perf:
         t = view[["ID", "Performer", "Category", "From", "Mode", "Travel Date", "Ticket Status", "Stay"]]
         styler = t.style
         paint = styler.map if hasattr(styler, "map") else styler.applymap
-        show(paint(lambda v: f"background-color: {COLORS[v]}" if v in COLORS else "", subset=["Ticket Status"]))
+        show(paint(lambda v: f"background-color: {COLORS[v]}; color: #1f2937; font-weight: 600" if v in COLORS else "", subset=["Ticket Status"]))
     else:
         show(view[["Slot", "Performer", "Category", "From", "Arrive By", "Ready"]])
     st.caption(f"{len(view)} of {len(perf)} performers")
